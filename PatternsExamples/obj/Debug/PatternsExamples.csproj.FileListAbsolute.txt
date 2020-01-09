@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\PatternsExamples\bin\Debug\PatternsExamples.exe.config
+C:\Users\Asus\source\repos\PatternsExamples\bin\Debug\PatternsExamples.exe
+C:\Users\Asus\source\repos\PatternsExamples\bin\Debug\PatternsExamples.pdb
+C:\Users\Asus\source\repos\PatternsExamples\obj\Debug\PatternsExamples.exe
+C:\Users\Asus\source\repos\PatternsExamples\obj\Debug\PatternsExamples.pdb
+C:\Users\Asus\source\repos\PatternsExamples\obj\Debug\PatternsExamples.csprojAssemblyReference.cache
